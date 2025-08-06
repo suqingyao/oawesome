@@ -12,6 +12,9 @@
 - ⏰ **时间信息**：创建时间、最近更新时间
 
 ## 技术栈
-- **前端框架**：React + Remix
-- **样式方案**：Tailwind CSS
+- **前端框架**：React19 + Nextjs15
+- **样式方案**：Tailwind CSS V4
+- **UI组件库**：Shadcn UI
+- **图标库**：Lucide React
+- **包管理器**：pnpm
 - **部署方式**：静态网站
