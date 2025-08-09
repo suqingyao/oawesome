@@ -30,6 +30,22 @@ export const libraries: Library[] = [
     createdAt: '2013-05-24',
     updatedAt: '2024-01-15',
     category: 'frontend',
+    language: 'JavaScript',
+    license: 'MIT',
+    size: 45600,
+    openIssues: 1200,
+    watchers: 6800,
+
+    commits: [
+      { date: '2024-01-01', count: 15 },
+      { date: '2024-01-02', count: 8 },
+      { date: '2024-01-03', count: 12 },
+      { date: '2024-01-04', count: 6 },
+      { date: '2024-01-05', count: 18 },
+      { date: '2024-01-06', count: 4 },
+      { date: '2024-01-07', count: 9 },
+    ],
+
   },
   {
     id: '2',
@@ -48,6 +64,22 @@ export const libraries: Library[] = [
       },
     ],
     tags: ['前端框架', 'MVVM', 'JavaScript'],
+    language: 'JavaScript',
+    license: 'MIT',
+    size: 34200,
+    openIssues: 356,
+    watchers: 4500,
+
+    commits: [
+      { date: '2024-01-01', count: 8 },
+      { date: '2024-01-02', count: 12 },
+      { date: '2024-01-03', count: 6 },
+      { date: '2024-01-04', count: 15 },
+      { date: '2024-01-05', count: 9 },
+      { date: '2024-01-06', count: 11 },
+      { date: '2024-01-07', count: 7 },
+    ],
+
     createdAt: '2013-07-28',
     updatedAt: '2024-01-10',
     category: 'frontend',
@@ -72,6 +104,22 @@ export const libraries: Library[] = [
     createdAt: '2017-11-01',
     updatedAt: '2024-01-12',
     category: 'styling',
+    language: 'CSS',
+    license: 'MIT',
+    size: 12800,
+    openIssues: 45,
+    watchers: 1200,
+
+    commits: [
+      { date: '2024-01-01', count: 5 },
+      { date: '2024-01-02', count: 8 },
+      { date: '2024-01-03', count: 12 },
+      { date: '2024-01-04', count: 3 },
+      { date: '2024-01-05', count: 9 },
+      { date: '2024-01-06', count: 6 },
+      { date: '2024-01-07', count: 11 },
+    ],
+
   },
   {
     id: '4',
@@ -93,6 +141,20 @@ export const libraries: Library[] = [
     createdAt: '2009-05-27',
     updatedAt: '2024-01-14',
     category: 'backend',
+    language: 'JavaScript',
+    license: 'MIT',
+    size: 89600,
+    openIssues: 1800,
+    watchers: 3200,
+    commits: [
+      { date: '2024-01-01', count: 25 },
+      { date: '2024-01-02', count: 18 },
+      { date: '2024-01-03', count: 22 },
+      { date: '2024-01-04', count: 15 },
+      { date: '2024-01-05', count: 28 },
+      { date: '2024-01-06', count: 12 },
+      { date: '2024-01-07', count: 20 },
+    ],
   },
   {
     id: '5',
@@ -114,6 +176,22 @@ export const libraries: Library[] = [
     createdAt: '2012-10-01',
     updatedAt: '2024-01-13',
     category: 'language',
+    language: 'TypeScript',
+    license: 'Apache-2.0',
+    size: 67800,
+    openIssues: 5600,
+    watchers: 2800,
+
+    commits: [
+      { date: '2024-01-01', count: 12 },
+      { date: '2024-01-02', count: 16 },
+      { date: '2024-01-03', count: 9 },
+      { date: '2024-01-04', count: 20 },
+      { date: '2024-01-05', count: 14 },
+      { date: '2024-01-06', count: 8 },
+      { date: '2024-01-07', count: 18 },
+    ],
+
   },
 ];
 

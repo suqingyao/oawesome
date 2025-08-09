@@ -14,6 +14,14 @@ export interface Library {
   createdAt: string;
   updatedAt: string;
   category: string;
+  // GitHub API 扩展字段
+  language?: string;
+  license?: string;
+  size: number; // 仓库大小 (KB)
+  openIssues: number;
+  watchers: number;
+  commits?: CommitData[];
+
 }
 
 /**
@@ -25,6 +33,16 @@ export interface Contributor {
   avatar: string;
   contributions: number;
 }
+
+/**
+ * 提交数据类型
+ */
+export interface CommitData {
+  date: string;
+  count: number;
+}
+
+
 
 /**
  * 分类信息类型
